@@ -162,7 +162,7 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com',
   leetcode: "https://leetcode.com",
   devUsername: "",
-  resume: "...."
+  resume: '/Santhooshkrishna_R_ CV.pdf'
 };
 ```
 
