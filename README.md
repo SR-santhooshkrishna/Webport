@@ -15,7 +15,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here : https://srsandy.netlify.app/].
+## View live preview [here].(https//srsandy.netlify.app/)
 
 ---
 
